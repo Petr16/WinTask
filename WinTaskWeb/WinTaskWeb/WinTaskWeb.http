@@ -1,0 +1,6 @@
+@WinTaskWeb_HostAddress = http://localhost:5171
+
+GET {{WinTaskWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
